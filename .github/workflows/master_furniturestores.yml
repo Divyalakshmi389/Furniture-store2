@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'FurnitureStores'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC0369EBAB7C4D80A82BA18C86695DA7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90680D16BE7F45258B1ED2A1655A123E }}
           package: '*.jar'
